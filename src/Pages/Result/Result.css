@@ -1,0 +1,19 @@
+.result{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height:60vh;
+
+    
+}
+.title{
+    font-size:40px;
+    padding:5px 10px;
+    font-family: "Poppins",sans-serif;
+}
+
+.button{
+    height:60px !important;
+    
+}
